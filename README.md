@@ -1,2 +1,2 @@
 # nicaragua-trip
-My Nicaragua Trip, using Bootstrap and Sass
+My Nicaragua Trip. I will do a Flat Design UI using Bootstrap, Sass and HSL Colors.
