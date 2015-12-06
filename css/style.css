@@ -1,0 +1,33 @@
+body {
+  background: #ffffff;
+  color: #c7a200; }
+
+p {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  line-height: 1.6em;
+  font-size: 20px; }
+
+.btn {
+  background: #0067c7;
+  color: #ffd000; }
+  .btn:hover {
+    background: #c7a200; }
+  .btn:active {
+    background: #0067c7;
+    color: #ffd000; }
+  .btn:focus {
+    background: #0067c7;
+    color: #ffd000; }
+
+.jumbotron {
+  position: relative;
+  background: url("../img/nicaragua_flag.png") center;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden; }
+  .jumbotron p {
+    color: #c7a200; }
+
+/*# sourceMappingURL=style.css.map */
