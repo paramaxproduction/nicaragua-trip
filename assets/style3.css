@@ -3,6 +3,9 @@ body {
   background-color: #ECF0F1;
   -webkit-font-smoothing: antialiased;
 }
+.voy {
+  margin: 0 auto;
+}
 .jumbotron {
   background: url(../images/jours/2.jpg);
   background-size: cover;
